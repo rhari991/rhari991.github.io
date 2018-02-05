@@ -1,0 +1,10 @@
+# main links
+main:
+  - title: "Posts"
+    url: /posts/
+  - title: "About"
+    url: /about/
+  - title: "Contact"
+    url: /contact/   
+  - title: "Resume"
+    url: /assets/profile/resume_hari.pdf
