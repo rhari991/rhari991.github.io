@@ -1,5 +1,5 @@
 ---
-title: "Custom converters for Retrofit | Part 2: Custom request converters"
+title: "Custom converters for Retrofit Part 2: Custom request converters"
 excerpt: "Request converters let you modify how data is serialized into the body of network requests."
 last_modified_at: 2018-02-07 10:00:00-04:00
 categories:

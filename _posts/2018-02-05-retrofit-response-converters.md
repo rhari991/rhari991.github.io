@@ -1,5 +1,5 @@
 ---
-title: "Custom converters for Retrofit | Part 1 : Introduction and custom response converters"
+title: "Custom converters for Retrofit Part 1: Introduction and custom response converters"
 excerpt: "Converters define the mapping between network requests/responses and model classes. Custom response converters can be used to handle edge cases in a server's API."
 last_modified_at: 2018-02-05 10:00:00-04:00
 categories:
